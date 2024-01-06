@@ -21,7 +21,7 @@ https://colab.research.google.com/drive/1SJBMF8yjOKP7MZcREszvd2mD73U3HdyJ?usp=sh
 For any questions related to the tutorial, please write to sankarshan[dot]damle[at]research.iiit.ac.in
 
 ## Citation 
-If you find this tutorial please cite our work:
+If you find this tutorial helpful please cite our work:
 
 ```
 @inproceedings{PDG24,
